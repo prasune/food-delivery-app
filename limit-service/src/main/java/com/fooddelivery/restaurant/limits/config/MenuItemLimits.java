@@ -1,4 +1,4 @@
-package com.fooddelivery.restaurant.limits;
+package com.fooddelivery.restaurant.limits.config;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
