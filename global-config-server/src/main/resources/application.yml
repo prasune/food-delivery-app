@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/prasune/food-dlivery-app/tree/main/git-local-config
+          uri: https://github.com/prasune/spring-cloud-config-git-repo
           clone-on-start: true
 server:
   port: 8888
