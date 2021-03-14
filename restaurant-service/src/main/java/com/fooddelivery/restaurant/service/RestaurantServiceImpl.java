@@ -6,7 +6,7 @@ import com.fooddelivery.restaurant.domain.converter.RestaurantDomainConverter;
 import com.fooddelivery.restaurant.domain.RestaurantSummary;
 import com.fooddelivery.restaurant.exception.ResourceNotFoundException;
 import com.fooddelivery.restaurant.repository.entity.RestaurantEntity;
-import com.fooddelivery.restaurant.repository.entity.RestaurantRepository;
+import com.fooddelivery.restaurant.repository.RestaurantRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
