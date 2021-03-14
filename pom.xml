@@ -13,6 +13,7 @@
         <module>limit-service</module>
         <module>global-config-server</module>
         <module>service-registry-server</module>
+        <module>api-gateway</module>
     </modules>
 
 
