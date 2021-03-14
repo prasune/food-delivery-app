@@ -3,5 +3,10 @@ spring:
     name: api-gateway
   config:
     import: optional:configserver:http://localhost:8888
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
 server:
   port: 8765
